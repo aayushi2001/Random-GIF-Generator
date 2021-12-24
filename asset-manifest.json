@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Random-GIF-Generator/static/css/main.eb08d779.chunk.css",
+    "main.js": "/Random-GIF-Generator/static/js/main.ee8e170f.chunk.js",
+    "main.js.map": "/Random-GIF-Generator/static/js/main.ee8e170f.chunk.js.map",
+    "runtime-main.js": "/Random-GIF-Generator/static/js/runtime-main.74b06bfd.js",
+    "runtime-main.js.map": "/Random-GIF-Generator/static/js/runtime-main.74b06bfd.js.map",
+    "static/js/2.692db0e7.chunk.js": "/Random-GIF-Generator/static/js/2.692db0e7.chunk.js",
+    "static/js/2.692db0e7.chunk.js.map": "/Random-GIF-Generator/static/js/2.692db0e7.chunk.js.map",
+    "index.html": "/Random-GIF-Generator/index.html",
+    "precache-manifest.9f52f429e9793de2d2f0b0bb1e87a623.js": "/Random-GIF-Generator/precache-manifest.9f52f429e9793de2d2f0b0bb1e87a623.js",
+    "service-worker.js": "/Random-GIF-Generator/service-worker.js",
+    "static/css/main.eb08d779.chunk.css.map": "/Random-GIF-Generator/static/css/main.eb08d779.chunk.css.map",
+    "static/js/2.692db0e7.chunk.js.LICENSE.txt": "/Random-GIF-Generator/static/js/2.692db0e7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74b06bfd.js",
+    "static/js/2.692db0e7.chunk.js",
+    "static/css/main.eb08d779.chunk.css",
+    "static/js/main.ee8e170f.chunk.js"
+  ]
+}
